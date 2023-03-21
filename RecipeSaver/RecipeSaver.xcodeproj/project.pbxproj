@@ -20,6 +20,7 @@
 		24146A3C29C77BC000B3BF05 /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24146A3B29C77BC000B3BF05 /* RecipeModel.swift */; };
 		24146A3E29C8456900B3BF05 /* RecipeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24146A3D29C8456900B3BF05 /* RecipeCard.swift */; };
 		24146A4029C900D800B3BF05 /* RecipeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24146A3F29C900D800B3BF05 /* RecipeList.swift */; };
+		24146A4229C9076600B3BF05 /* RecipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24146A4129C9076600B3BF05 /* RecipeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		24146A3B29C77BC000B3BF05 /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		24146A3D29C8456900B3BF05 /* RecipeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCard.swift; sourceTree = "<group>"; };
 		24146A3F29C900D800B3BF05 /* RecipeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeList.swift; sourceTree = "<group>"; };
+		24146A4129C9076600B3BF05 /* RecipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 		24146A2D29C776B000B3BF05 /* Detail */ = {
 			isa = PBXGroup;
 			children = (
+				24146A4129C9076600B3BF05 /* RecipeView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				24146A3029C7772300B3BF05 /* HomeView.swift in Sources */,
 				24146A3A29C77A5E00B3BF05 /* TabBar.swift in Sources */,
 				24146A1D29C7764A00B3BF05 /* ContentView.swift in Sources */,
+				24146A4229C9076600B3BF05 /* RecipeView.swift in Sources */,
 				24146A4029C900D800B3BF05 /* RecipeList.swift in Sources */,
 				24146A3629C7773E00B3BF05 /* SettingsView.swift in Sources */,
 				24146A1B29C7764A00B3BF05 /* RecipeSaverApp.swift in Sources */,
